@@ -1,6 +1,9 @@
 .cabeçalho{
     background-color: rgb(14, 182, 145);
     color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
 }
 .cabeçalho-imagem{
     width: 50%;

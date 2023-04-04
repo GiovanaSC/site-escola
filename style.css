@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .cabeçalho{
     background-color: rgb(14, 182, 145);
     color: rgb(0, 0, 0);
@@ -6,9 +10,16 @@
     padding: 24px 0;
 }
 .cabeçalho-imagem{
-    width: 50%;
+    width: 30%;
 }
 .cabeçalho-imagem{
     display: inline-block;
     margin: 0 16px;
+}
+.escola-imagem{
+    width: 30%;
+}
+.escola{
+    background-image:linear-gradient(rgb(14, 160, 148), rgb(195, 0, 255));
+
 }

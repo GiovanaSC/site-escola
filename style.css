@@ -23,3 +23,13 @@
     background-image:linear-gradient(rgb(14, 182, 145), rgb(195, 0, 255));
 
 }
+
+.Estudantes{
+    background-image:linear-gradient(rgb(195, 0, 255), rgb(255, 0, 64));
+}
+.estudante-logo{
+    width: 4%;
+}
+.Eu{
+    width: 8%;
+}

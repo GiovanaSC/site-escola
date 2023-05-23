@@ -27,9 +27,9 @@
 .Estudantes{
     background-image:linear-gradient(rgb(195, 0, 255), rgb(255, 0, 64));
 }
-.estudante-logo{
-    width: 4%;
+.estudante-icone{
+    width: 5%;
 }
-.Eu{
-    width: 8%;
+.estudante-imagem{
+    width: 10%;
 }

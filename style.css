@@ -28,8 +28,16 @@
     background-image:linear-gradient(rgb(195, 0, 255), rgb(255, 0, 64));
 }
 .estudante-icone{
-    width: 5%;
+    width: 10%;
 }
 .estudante-imagem{
-    width: 10%;
+    width: 30%;
+}
+.estudantes-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    text-align: center;
+}
+.estudante-titulo{
+    text-align: center;
 }
